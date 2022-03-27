@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 3ec865a0-1e9c-6d5f-96cc-fddbd9d56c01
 resourcetype: Document
 title: helgacentSTD.pdf
 uid: 01236553-c5e3-5712-9532-61fdcf3c2be2

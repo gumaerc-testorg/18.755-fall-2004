@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 3ec865a0-1e9c-6d5f-96cc-fddbd9d56c01
 resourcetype: Document
 title: helga_sopmath3_2.pdf
 uid: 256974d7-24f9-56b5-d22d-18d6d9935c9f

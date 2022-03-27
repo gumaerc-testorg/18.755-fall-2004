@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 17de9666-0548-b004-fad7-01bc1e952b8c
 resourcetype: Image
 title: aa.jpg
 uid: 67af0c7b-59c1-1227-969d-869b31e73a5e

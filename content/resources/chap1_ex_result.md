@@ -15,6 +15,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e15681b9-5f45-c52e-3aa0-e87df934826f
 resourcetype: Document
 title: chap1_ex_result.pdf
 uid: 7620c82b-3cf6-16a6-439a-9f66454452eb

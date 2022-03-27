@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 3ec865a0-1e9c-6d5f-96cc-fddbd9d56c01
 resourcetype: Document
 title: helga_sophusl1_1.pdf
 uid: 8c1bdffc-0741-4746-5da4-6483132092c4

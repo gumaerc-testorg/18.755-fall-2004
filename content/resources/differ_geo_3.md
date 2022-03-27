@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 71104fa9-9c1f-92bc-bbf7-d875de44f838
 resourcetype: Document
 title: differ_geo_3.pdf
 uid: 62ea29cf-a901-2fd6-7ffe-cc93068085b5

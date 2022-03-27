@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e15681b9-5f45-c52e-3aa0-e87df934826f
 resourcetype: Document
 title: soln_exercises.pdf
 uid: 88900c09-0d97-a7a5-e030-c7a5e99a111a
