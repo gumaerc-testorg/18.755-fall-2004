@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the table of contents of the required textbook
+  for the course and a list of additional readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -170,9 +172,9 @@ Table of Contents
 
 The first two papers below are quite elementary and non-technical and are passed out at the very beginning of the course. They serve as motivation. The third one is more technical and is passed out near the end of the course.
 
-1.  Helgason, Sigurdur. "Sophus Lie, the mathematician" ([PDF - 1.2 MB]({{< baseurl >}}/resources/helga_sopmath3_2)). O.A. Laudal and B. Jahren (eds.) _The Sophus Lie Memorial Conference. Oslo 1992 Proceedings_ , Oslo: Universitetsforlaget (Scandinavian University Press) 1994.
-2.  Sophus Lie and the Role of Lie Groups in Mathematics ([PDF]({{< baseurl >}}/resources/helga_sophusl1_1)). Opening lecture by Sigurdur Helgason at a Nordic Teachers Conference in Reykjavik 1990.
-3.  Reprinted with permission from Springer.  Helgason, Sigurdur. "A Centennial: Wilhelm Killing and the Exceptional Groups." ([PDF - 1.2MB]({{< baseurl >}}/resources/helgacentstd)) _The Mathematical Intelligencer_ 12, no. 3 (1990).
+1.  Helgason, Sigurdur. "Sophus Lie, the mathematician" ({{% resource_link 256974d7-24f9-56b5-d22d-18d6d9935c9f "PDF - 1.2 MB" %}}). O.A. Laudal and B. Jahren (eds.) _The Sophus Lie Memorial Conference. Oslo 1992 Proceedings_ , Oslo: Universitetsforlaget (Scandinavian University Press) 1994.
+2.  Sophus Lie and the Role of Lie Groups in Mathematics ({{% resource_link 8c1bdffc-0741-4746-5da4-6483132092c4 "PDF" %}}). Opening lecture by Sigurdur Helgason at a Nordic Teachers Conference in Reykjavik 1990.
+3.  Reprinted with permission from Springer.  Helgason, Sigurdur. "A Centennial: Wilhelm Killing and the Exceptional Groups." ({{% resource_link 01236553-c5e3-5712-9532-61fdcf3c2be2 "PDF - 1.2MB" %}}) _The Mathematical Intelligencer_ 12, no. 3 (1990).
 
 For a thorough treatment of the history of the subject, see
 
