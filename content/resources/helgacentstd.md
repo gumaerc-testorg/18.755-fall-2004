@@ -7,6 +7,7 @@ file: /courses/18-755-introduction-to-lie-groups-fall-2004/01236553c5e3571295326
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: helgacentSTD.pdf
 uid: 01236553-c5e3-5712-9532-61fdcf3c2be2
 ---
 Course reading reprinted with permission from Springer.  Helgason, Sigurdur. "A Centennial: Wilhelm Killing and the Exceptional Groups." The Mathematical Intelligencer 12, no. 3 (1990).
-

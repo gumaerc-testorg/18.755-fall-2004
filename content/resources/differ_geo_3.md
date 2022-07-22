@@ -6,6 +6,7 @@ file: /courses/18-755-introduction-to-lie-groups-fall-2004/62ea29cfa9012fd67ffec
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: differ_geo_3.pdf
 uid: 62ea29cf-a901-2fd6-7ffe-cc93068085b5
 ---
 This resource has solutions for the topics: Solvable and Nilpotent Lie Algebras.
-
