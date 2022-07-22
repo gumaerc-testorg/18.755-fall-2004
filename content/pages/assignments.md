@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the homework assignments for the course along with
+  solutions.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 71104fa9-9c1f-92bc-bbf7-d875de44f838
 ---
@@ -16,7 +21,7 @@ A1, A2, A3, A6 (i)-(iii), B1, C2, C5, D3 in chapter II.
 Solutions to Assignments
 ------------------------
 
-Solutions for sessions 2-5, 14, and 20-22 may be found in Chapter I Solutions ([PDF]({{< baseurl >}}/resources/differ_geo_1)). Solutions for problems for sessions 6-13, 15, 16, and 23-25 may be found in Chapter II Solutions ([PDF]({{< baseurl >}}/resources/differ_geo_2)).
+Solutions for sessions 2-5, 14, and 20-22 may be found in Chapter I Solutions ({{% resource_link 57f83fe0-4365-9ee3-f9f7-73e63ee69e0f "PDF" %}}). Solutions for problems for sessions 6-13, 15, 16, and 23-25 may be found in Chapter II Solutions ({{% resource_link a2d717d6-5d88-aa75-9854-65c33910280e "PDF" %}}).
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -42,7 +47,7 @@ PROBLEMS
 Historical Background and Informal Introduction to Lie Theory
 {{< tdclose >}}
 {{< tdopen >}}
-Read the first two papers listed under [Additional Readings]({{< baseurl >}}/pages/readings)
+Read the first two papers listed under {{% resource_link 3ec865a0-1e9c-6d5f-96cc-fddbd9d56c01 "Additional Readings" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -410,7 +415,7 @@ Suggested Problems: G1, G3
 The Classical Groups and the Classification of Simple Lie Algebras, Real and Complex
 {{< tdclose >}}
 {{< tdopen >}}
-Read the third paper listed under [Additional Readings]({{< baseurl >}}/pages/readings)
+Read the third paper listed under {{% resource_link 3ec865a0-1e9c-6d5f-96cc-fddbd9d56c01 "Additional Readings" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
