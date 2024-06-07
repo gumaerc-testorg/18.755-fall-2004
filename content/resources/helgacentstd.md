@@ -4,6 +4,7 @@ description: 'Course reading reprinted with permission from Springer.  Helgason,
   "A Centennial: Wilhelm Killing and the Exceptional Groups." The Mathematical Intelligencer
   12, no. 3 (1990).'
 file: /courses/18-755-introduction-to-lie-groups-fall-2004/01236553c5e35712953261fdcf3c2be2_helgacentSTD.pdf
+file_size: 1195275
 file_type: application/pdf
 learning_resource_types:
 - Readings
