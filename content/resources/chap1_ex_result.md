@@ -9,6 +9,7 @@ description: This document contains a summary of the lecture material. These lec
   course, the text has a fairly large bibliography up to 1978. Since then, a huge
   number of books on Lie groups has appeared.
 file: /courses/18-755-introduction-to-lie-groups-fall-2004/7620c82b3cf616a6439a9f66454452eb_chap1_ex_result.pdf
+file_size: 168892
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
