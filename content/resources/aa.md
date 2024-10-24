@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-755-introduction-to-lie-groups-fall-2004/67af0c7b59c11227969d869b31e73a5e_aa.jpg
+file: /ol-ocw-studio-app/courses/18-755-introduction-to-lie-groups-fall-2004/67af0c7b59c11227969d869b31e73a5e_aa.jpg
 file_size: 8740
 file_type: image/jpeg
 image_metadata:
