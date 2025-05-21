@@ -8,7 +8,7 @@ description: This document contains a summary of the lecture material. These lec
   Groups I and Pontryagin's Topological Groups. Documenting the material from the
   course, the text has a fairly large bibliography up to 1978. Since then, a huge
   number of books on Lie groups has appeared.
-file: /ol-ocw-studio-app/courses/18-755-introduction-to-lie-groups-fall-2004/826caecffe09313d044eed27b1af06e4_chap2_topic1to7.pdf
+file: /courses/18-755-introduction-to-lie-groups-fall-2004/826caecffe09313d044eed27b1af06e4_chap2_topic1to7.pdf
 file_size: 2009379
 file_type: application/pdf
 learning_resource_types:
