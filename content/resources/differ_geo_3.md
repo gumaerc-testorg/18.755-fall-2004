@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource has solutions for the topics: Solvable and Nilpotent Lie
   Algebras.'
-file: /courses/18-755-introduction-to-lie-groups-fall-2004/62ea29cfa9012fd67ffecc93068085b5_differ_geo_3.pdf
+file: /ol-ocw-studio-app/courses/18-755-introduction-to-lie-groups-fall-2004/62ea29cfa9012fd67ffecc93068085b5_differ_geo_3.pdf
 file_size: 123878
 file_type: application/pdf
 learning_resource_types:
