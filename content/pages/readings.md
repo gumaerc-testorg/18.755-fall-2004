@@ -14,7 +14,7 @@ In addition to the table of contents of the required textbook, given below is a 
 Required Textbook
 -----------------
 
-Helgason, Sigurdur. [_Differential Geometry, Lie Groups, and Symmetric Spaces_](http://www.ams.org/bookstore?fn=20&arg1=gsmseries&item=GSM-34). Providence, R.I.: American Mathematical Society, 2001. ISBN 0821828487.
+Helgason, Sigurdur. {{% resource_link "6407353a-654d-4265-8199-ccd635c3a724" "_Differential Geometry, Lie Groups, and Symmetric Spaces_" %}}. Providence, R.I.: American Mathematical Society, 2001. ISBN 0821828487.
 
 Table of Contents
 -----------------

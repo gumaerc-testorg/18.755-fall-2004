@@ -21,7 +21,7 @@ After a historical motivation of the definition of a Lie group we shall develop 
 Textbook
 --------
 
-Helgason, Sigurdur. [_Differential Geometry, Lie Groups, and Symmetric Spaces_](http://www.ams.org/bookstore?fn=20&arg1=gsmseries&item=GSM-34). Providence, R.I.: American Mathematical Society, 2001. ISBN: 0821828487.
+Helgason, Sigurdur. {{% resource_link "6407353a-654d-4265-8199-ccd635c3a724" "_Differential Geometry, Lie Groups, and Symmetric Spaces_" %}}. Providence, R.I.: American Mathematical Society, 2001. ISBN: 0821828487.
 
 Prerequisites
 -------------
